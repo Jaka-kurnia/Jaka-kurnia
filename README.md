@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full Stack Web Developer specializing in building modern web applications using PHP as my core technology. I am proficient in the Laravel framework for creating secure, scalable, and well-structured back-end systems, and I use Tailwind CSS to craft responsive and visually appealing user interfaces. With this combination of skills, I can design and implement end-to-end web solutions—from database architecture to UI/UX development. I am committed to writing clean, efficient code and continuously learning new technologies to improve the quality of every project I work on.
+I am a Software Engineer currently pursuing a Diploma in Informatics Management, specialising in the development of web and mobile applications. Leveraging my technical expertise in the Laravel and Flutter frameworks, I am adept at transforming conceptual ideas into functional digital products. Furthermore, I possess a deep understanding of database architecture, spanning both MySQL and NoSQL systems, enabling me to manage data in an optimal and high-performing manner.
 
 
 
