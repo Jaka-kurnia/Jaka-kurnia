@@ -1,7 +1,9 @@
-# 💫 About Me:
-I am a Software Engineer currently pursuing a Diploma in Informatics Management, specialising in the development of web and mobile applications. Leveraging my technical expertise in the Laravel and Flutter frameworks, I am adept at transforming conceptual ideas into functional digital products. Furthermore, I possess a deep understanding of database architecture, spanning both MySQL and NoSQL systems, enabling me to manage data in an optimal and high-performing manner.
+# 💫 About Me
+I am a **Software Engineer** currently pursuing a **Diploma in Informatics Management**, specializing in **web and mobile application development**. I have expertise in the **Laravel** and **Flutter** frameworks and can transform ideas into fully functional digital products.  
 
+I also have strong experience in **database design and management**, including **MySQL, PostgreSQL, and NoSQL databases**, ensuring high-performance and scalable applications.  
 
+---
 
 ## 💻 Tech Stack
 
@@ -12,7 +14,6 @@ I am a Software Engineer currently pursuing a Diploma in Informatics Management,
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-
 ---
 
 ### 🌐 Frameworks & Libraries
@@ -20,7 +21,7 @@ I am a Software Engineer currently pursuing a Diploma in Informatics Management,
 ![Livewire](https://img.shields.io/badge/Livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=000000)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -28,12 +29,12 @@ I am a Software Engineer currently pursuing a Diploma in Informatics Management,
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ---
 
-### 🖥️ Local Server
+### 🖥️ Local Server & Environment
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
 
@@ -46,16 +47,13 @@ I am a Software Engineer currently pursuing a Diploma in Informatics Management,
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
 ---
 
 ### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
-
-
 ---
+
+### 📊 Visitor Count
 [![](https://visitcount.itsvg.in/api?id=Jaka-kurnia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
