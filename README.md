@@ -1,4 +1,4 @@
-# 💫 About Me
+#  About Me
 
 I am a **Software Engineer** currently pursuing a **Diploma in Informatics Management**, specializing in **web and mobile application development**. I have expertise in the **Laravel** and **Flutter** frameworks and can transform ideas into fully functional digital products.
 
