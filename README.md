@@ -4,7 +4,7 @@ I am a **Software Engineer** currently pursuing a **Diploma in Informatics Manag
 
 
 
-I also have strong experience in **database design and management**, including **MySQL, PostgreSQL, and NoSQL databases**, ensuring high-performance and scalable applications.
+I also have strong experience in **database design and management**, including **MySQL**, ensuring high-performance and scalable applications.
 
 
 
