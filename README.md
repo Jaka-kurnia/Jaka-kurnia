@@ -10,9 +10,13 @@ I also have strong experience in **database design and management**, including *
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,react,laravel,nextjs,tailwind,bootstrap,ts,go,flutter,dart,dotnet&perline=7)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,php,js,react,laravel,nextjs,tailwind,bootstrap,ts,go,flutter,dart,dotnet&perline=14" alt="My Skills" />
+</a>
 
 
-## Tools
+## 🛠️ Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,mysql,visualstudio,postman,npm,docker,discord,figma,github,git,vercel&perline=6)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,mysql,visualstudio,postman,npm,docker,discord,figma,github,git,vercel&perline=12" alt="My Skills" />
+</a>
