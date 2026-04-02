@@ -1,10 +1,6 @@
 #  About Me
 
-I am a **Junior Software Engineer** currently pursuing a **Diploma in Informatics Management**, specializing in **web and mobile application development**. I have expertise in the **Laravel** and **Flutter** frameworks and can transform ideas into fully functional digital products.
-
-
-
-I also have strong experience in **database design and management**, including **MySQL**, ensuring high-performance and scalable applications.
+**Software Engineer** specialising in scalable **web and mobile** application development using **Laravel, Next.js, and Flutter.** Experienced in systems analysis and designing efficient, maintainable database architectures.
 
 
 
