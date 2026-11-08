@@ -1,6 +1,6 @@
 #  About Me
 
-**Software Engineer** specialising in scalable **web and mobile** application development using **Laravel, Next.js, and Flutter.** Experienced in systems analysis and designing efficient, maintainable database architectures.
+**Junior Full-Stack Web Developer** specialising in scalable **web and mobile** application development using **Laravel, React, Next.js, and Flutter.** Experienced in systems analysis and designing efficient, maintainable database architectures.
 
 
 
